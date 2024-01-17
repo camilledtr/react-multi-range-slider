@@ -1,6 +1,7 @@
 # React Multi Range Slider
 
 A lightweight customizable React multi-range slider built using Vite and styled components.
+
 This slider is designed to empower you in scenarios such as repartitions, percentage distribution, and more.
 
 <br />
