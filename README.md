@@ -84,4 +84,5 @@ MIT License (Free to use)
 # Author
 
 **Camille Durthaller-Renard**
+
 Contact: camilledr10@gmail.com
